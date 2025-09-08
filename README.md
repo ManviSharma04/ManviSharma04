@@ -2,7 +2,8 @@
 
 💡 Passionate about **Frontend Development | UI/UX Design | AI-driven Projects | Data Visualization**  
 🎓 Computer Science Undergraduate at **BMS College of Engineering**  
-🚀 Strong foundation in **DSA, OOPs, OS, CN, DBMS**
+🚀 Strong foundation in **DSA, OOPs, OS, CN, DBMS** 
+
 📍 Based in Bengaluru, India | ✨ Creative + Technical + Disciplined Execution  
 
 ---
