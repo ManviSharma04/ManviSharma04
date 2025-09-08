@@ -77,14 +77,6 @@
 📩 **Email:** manvisharma.5514@gmail.com  
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManviSharma04&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManviSharma04&layout=compact&theme=radical)  
-
----
-
 ## ✨ Fun Fact
 
 🎨 When I’m not coding, I’m writing poetry, sketching, or making music 🎶
