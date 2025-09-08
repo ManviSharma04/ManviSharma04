@@ -108,4 +108,4 @@
 ---
 ## ✨ Fun Fact
 
-🎨 When I’m not coding, I’m writing poetry, sketching, or making music 🎶
+🎨 When I’m not coding, I’m writing poetry, sketching.
