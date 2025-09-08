@@ -1,8 +1,8 @@
 # Hi there, I'm Manvi Sharma! 👩‍💻
 
 💡 Passionate about **Frontend Development | UI/UX Design | AI-driven Projects | Data Visualization**  
-🎓 Computer Science Undergraduate at **BMS College of Engineering** (CGPA: 8.84)  
-🚀 Strong foundation in **DSA, OOPs, OS, CN, DBMS** with hands-on project experience  
+🎓 Computer Science Undergraduate at **BMS College of Engineering**  
+🚀 Strong foundation in **DSA, OOPs, OS, CN, DBMS**
 📍 Based in Bengaluru, India | ✨ Creative + Technical + Disciplined Execution  
 
 ---
