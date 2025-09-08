@@ -8,8 +8,6 @@
 
 ---
 
-## 🛠️ Technologies & Tools
-
 ## 🛠️ Technical Skills
 
 **Languages**  
