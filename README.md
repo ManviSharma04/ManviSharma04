@@ -75,7 +75,7 @@
   🤖 Terminal-based chatbot trained for age-specific emotional relevance.  
   🔍 Dataset collection, cleaning, preprocessing & dialogue management.  
 
-- [📱 SoulEase – Mental Wellness Mobile App](https://github.com/mohithjain/EaseBot-A-Mental-health-chatbot)  
+- [📱 SoulEase – Mental Wellness Mobile App](https://github.com/mohithjain/SoulEase_MentalHealthApp)
   📲 Cross-platform Flutter app with interactive UI & stress-relief features.  
   🎨 Designed responsive UI components with smooth navigation.  
 
