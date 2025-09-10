@@ -69,19 +69,20 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
-- [🤖 EaseBot – AI Mental Health Chatbot](https://github.com/mohithjain/EaseBot-A-Mental-health-chatbot) 
-   🤖 Terminal-based chatbot trained for age-specific emotional relevance.  
-   🔍 Dataset collection, cleaning, preprocessing & dialogue management.  
+- 🌿 **EaseBot – AI Mental Health Chatbot**  
+  🤖 Terminal-based chatbot trained for age-specific emotional relevance.  
+  🔍 Dataset collection, cleaning, preprocessing & dialogue management.  
 
-- [📱 SoulEase – Mental Wellness Mobile App](https://github.com/ManviSharma04)  
-   📲 Cross-platform Flutter app with interactive UI & stress-relief features.  
-   🎨 Designed responsive UI components with smooth navigation.  
+- 📱 **SoulEase – Mental Wellness Mobile App**  
+  📲 Cross-platform Flutter app with interactive UI & stress-relief features.  
+  🎨 Designed responsive UI components with smooth navigation.  
 
-- [📚 PagePavilion – E-commerce Bookstore](https://github.com/ManviSharma04)  
-   🛍️ Developed responsive web UI with semantic HTML, modern CSS & JS.  
-   💡 Improved mobile & desktop UX via optimized layouts.  
+- 📚 **PagePavilion – E-commerce Bookstore**  
+  🛍️ Developed responsive web UI with semantic HTML, modern CSS & JS.  
+  💡 Improved mobile & desktop UX via optimized layouts.  
+
 
 ---
 
