@@ -71,7 +71,7 @@
 
 ## 📌 Featured Projects
 
-- [🌿 EaseBot – AI Mental Health Chatbot]([https://github.com/ManviSharma04](https://github.com/mohithjain/EaseBot-A-Mental-health-chatbot))  
+- [🌿 EaseBot – AI Mental Health Chatbot]([https://github.com/ManviSharma04](https://github.com/mohithjain/EaseBot-A-Mental-health-chatbot)])  
    🤖 Terminal-based chatbot trained for age-specific emotional relevance.  
    🔍 Dataset collection, cleaning, preprocessing & dialogue management.  
 
