@@ -79,7 +79,7 @@
   📲 Cross-platform Flutter app with interactive UI & stress-relief features.  
   🎨 Designed responsive UI components with smooth navigation.  
 
-- [📚 PagePavilion – E-commerce Bookstore](https://github.com/mohithjain/EaseBot-A-Mental-health-chatbot)  
+- [📚 PagePavilion – E-commerce Bookstore](https://github.com/manvisharma04/pagepavillion)  
   🛍️ Developed responsive web UI with semantic HTML, modern CSS & JS.  
   💡 Improved mobile & desktop UX via optimized layouts.  
 
