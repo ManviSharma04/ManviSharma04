@@ -71,20 +71,20 @@
 
 ## 📌 Featured Projects  
 
-- ### [🕹️ CyberFiction – Modern Landing Page Clone](https://github.com/ManviSharma04/cyberfiction_Clone)  
+-  [🕹️ CyberFiction – Modern Landing Page Clone](https://github.com/ManviSharma04/cyberfiction_Clone)  
 ⚡ Recreated CyberFiction’s interactive landing page using pure HTML, CSS & JavaScript.  
 🎨 Implemented smooth GSAP + ScrollTrigger animations with Locomotive Scroll for seamless scrolling and premium UI/UX effects.
 
 
-- ### [🤖 EaseBot – AI Mental Health Chatbot](https://github.com/mohithjain/EaseBot-A-Mental-health-chatbot)  
+-  [🤖 EaseBot – AI Mental Health Chatbot](https://github.com/mohithjain/EaseBot-A-Mental-health-chatbot)  
   🤖 Terminal-based chatbot trained for age-specific emotional relevance.  
   🔍 Dataset collection, cleaning, preprocessing & dialogue management.  
 
-- ### [📱 SoulEase – Mental Wellness Mobile App](https://github.com/mohithjain/SoulEase_MentalHealthApp)  
+- [📱 SoulEase – Mental Wellness Mobile App](https://github.com/mohithjain/SoulEase_MentalHealthApp)  
   📲 Cross-platform Flutter app with interactive UI & stress-relief features.  
   🎨 Designed responsive UI components with smooth navigation.  
 
-- ### [📚 PagePavilion – E-commerce Bookstore](https://github.com/ManviSharma04/PagePavillion---FullStack-project)  
+-  [📚 PagePavilion – E-commerce Bookstore](https://github.com/ManviSharma04/PagePavillion---FullStack-project)  
   🛍️ Developed responsive web UI with semantic HTML, modern CSS & JS.  
   💡 Improved mobile & desktop UX via optimized layouts.  
 
