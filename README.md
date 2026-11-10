@@ -34,23 +34,22 @@ Business Development Executive with experience in B2B enterprise technology solu
    6. Collaborate with cross-functional teams to ensure seamless client onboarding and successful solution delivery.
    7. Build and maintain long-term client relationships through proactive communication and consultative engagement.
    8. Contribute to business growth initiatives by identifying new markets, partnership opportunities,and revenue generating strategies.
-      
-- **Research Intern**
-   Centre Of Execellence(COE),BMSCE  · Full-time
-   Jan 2026 - May 2026  · 5 months
-   Bengaluru, Karnataka, India · On-site
-   **Roles & Responsibility:**
-      1. Conducted research on AI bias, Large Language Models (LLMs), and reinforcement learning to understand and evaluate            sycophantic behavior in AI-generated responses.
-      2. Designed and expanded a structured dataset of 350 prompts across domains such as education and technology to                 assess model agreement bias.
-      3. Generated baseline and prompt-engineered responses and evaluated them using Natural Language Inference (NLI),                classifying outputs as agree, neutral, or contradict.
-      4. Developed a hybrid evaluation approach combining NLI with rule-based methods to identify subtle patterns of
-         agreement bias.
-      5. Applied prompt engineering techniques to encourage critical reasoning and balanced responses.
-      6.Implemented a self-critique mechanism enabling the model to generate, evaluate, and refine its own responses.
-      7. Analyzed model performance using metrics such as sycophancy rate, observing a significant reduction in agreement             bias.
-      8. The project focused on improving the reliability, objectivity, and critical reasoning capabilities of LLM-generated          responses.
 
-  
+- **Research and Development Intern**
+   | Centre Of Execellence(COE),BMSCE 
+   Jan 2026 - May 2026 · 5 months
+   Bengaluru, Karnataka, India · On-site
+
+   **Roles & Responsibility:**
+   1. Conducted research on AI bias, Large Language Models (LLMs), and reinforcement learning to understand and evaluate sycophantic behavior in AI-generated responses.
+   2.Designed and expanded a structured dataset of 350 prompts across domains such as education and technology to assess model agreement bias.
+   3. Generated baseline and prompt-engineered responses and evaluated them using Natural Language Inference (NLI), classifying outputs as agree, neutral, or contradict.
+   4.Developed a hybrid evaluation approach combining NLI with rule-based methods to identify subtle patterns of agreement bias.
+   5. Applied prompt engineering techniques to encourage critical reasoning and balanced responses.
+   6. Implemented a self-critique mechanism enabling the model to generate, evaluate, and refine its own responses.
+   7. Analyzed model performance using metrics such as sycophancy rate, observing a significant reduction in agreement bias.
+   8. The project focused on improving the reliability, objectivity, and critical reasoning capabilities of LLM-generated responses.
+
 - **Junior UX Designer Intern – Lloyds Banking Group (Virtual, Aug 2025)**  
      1. Conducted competitor research & designed surveys (50+ responses).  
      2. Performed usability testing & ethnographic studies.  
