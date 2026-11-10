@@ -21,7 +21,7 @@ Business Development Executive with experience in B2B enterprise technology solu
 ## 💼 Experience
 
 - **Business Development Executive**
-   Oryggi Technologies · Full-time
+   | Oryggi Technologies · Full-time
    Jul 2026 - Present · 5 months
    Noida, Uttar Pradesh, India · On-site
 
