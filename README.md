@@ -21,28 +21,44 @@ Business Development Executive with experience in B2B enterprise technology solu
 ## 💼 Experience
 
 - **Business Development Executive**
-Oryggi Technologies · Full-time
-Jul 2026 - Present · 5 mos
-Noida, Uttar Pradesh, India · On-site
+   Oryggi Technologies · Full-time
+   Jul 2026 - Present · 5 months
+   Noida, Uttar Pradesh, India · On-site
 
-**Roles & Responsibility:**
-1. Identify and engage prospective clients through strategic lead generation and market research.
-2. Build and nurture strategic partnerships to drive business growth and expand the company's network.
-3. Understand client requirements and recommend tailored technology solutions that align with their business objectives.
-4. Develop and execute outreach strategies to generate qualified opportunities and strengthen the sales pipeline.
-5. Conduct market and competitor analysis to identify emerging trends, business opportunities, and growth areas.
-6. Collaborate with cross-functional teams to ensure seamless client onboarding and successful solution delivery.
-7. Build and maintain long-term client relationships through proactive communication and consultative engagement.
-8. Contribute to business growth initiatives by identifying new markets, partnership opportunities, and revenue-generating strategies.
+   **Roles & Responsibility:**
+   1. Identify and engage prospective clients through strategic lead generation and market research.
+   2. Build and nurture strategic partnerships to drive business growth and expand the company's network.
+   3. Understand client requirements and recommend tailored technology solutions that align with their business objectives.
+   4. Develop and execute outreach strategies to generate qualified opportunities and strengthen the sales pipeline.
+   5. Conduct market and competitor analysis to identify emerging trends, business opportunities, and growth areas.
+   6. Collaborate with cross-functional teams to ensure seamless client onboarding and successful solution delivery.
+   7. Build and maintain long-term client relationships through proactive communication and consultative engagement.
+   8. Contribute to business growth initiatives by identifying new markets, partnership opportunities,and revenue generating strategies.
+      
+- **Research Intern**
+   Centre Of Execellence(COE),BMSCE  · Full-time
+   Jan 2026 - May 2026  · 5 months
+   Bengaluru, Karnataka, India · On-site
+   **Roles & Responsibility:**
+      1. Conducted research on AI bias, Large Language Models (LLMs), and reinforcement learning to understand and evaluate            sycophantic behavior in AI-generated responses.
+      2. Designed and expanded a structured dataset of 350 prompts across domains such as education and technology to                 assess model agreement bias.
+      3. Generated baseline and prompt-engineered responses and evaluated them using Natural Language Inference (NLI),                classifying outputs as agree, neutral, or contradict.
+      4. Developed a hybrid evaluation approach combining NLI with rule-based methods to identify subtle patterns of
+         agreement bias.
+      5. Applied prompt engineering techniques to encourage critical reasoning and balanced responses.
+      6.Implemented a self-critique mechanism enabling the model to generate, evaluate, and refine its own responses.
+      7. Analyzed model performance using metrics such as sycophancy rate, observing a significant reduction in agreement             bias.
+      8. The project focused on improving the reliability, objectivity, and critical reasoning capabilities of LLM-generated          responses.
 
+  
 - **Junior UX Designer Intern – Lloyds Banking Group (Virtual, Aug 2025)**  
-   📊 Conducted competitor research & designed surveys (50+ responses).  
-   🧪 Performed usability testing & ethnographic studies.  
-   🎨 Provided actionable design recommendations with data visualization insights.  
+     1. Conducted competitor research & designed surveys (50+ responses).  
+     2. Performed usability testing & ethnographic studies.  
+     3. Provided actionable design recommendations with data visualization insights.  
 
 - **Data Visualization Intern – Tata Group (Virtual, Jan 2025)**  
-   📈 Created interactive dashboards & visualizations for leadership decision-making.  
-   📑 Applied **data storytelling** for executive-ready reports.  
+     1. Created interactive dashboards & visualizations for leadership decision-making.  
+     2. Applied **data storytelling** for executive-ready reports.  
 
 ---
 
